@@ -1,6 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+ CABSHARE-NITR | Next.js (with TypeScript), Tailwind CSS, Firebase, OAuth, Leaflet Map API
+
+ • Developed a TypeScript-based ride-sharing platform leveraging Next.js for server-side rendering and dynamic routing.
+ • Implemented OAuth for secure authentication and Firebase for scalable, real-time data storage and retrieval.
+ • Built a responsive UI with Tailwind CSS, optimizing for cross-device compatibility and fast load times.
+ • Integrated Leaflet.js for interactive map rendering, enabling route visualization and geolocation functionality.
+ • Engineered CRUD operations for ride management, including creating, retrieving, and matching ride details dynamically
+ from Firebase.
+
+
 
 First, run the development server:
 
